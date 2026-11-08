@@ -1,0 +1,6 @@
+base,date,version,equation_fichier,limites,nb_resultats,sentinelles_retrouves,remarques
+PubMed,,v1,pubmed_v1.txt,2010:2026 ; en/fr,,,
+Scopus,,v1,scopus_v1.txt,2010-2026 ; en/fr,,,
+CENTRAL,,v1,central_v1.txt,2010-2026,,,
+IEEE Xplore,,v1,ieee_v1.txt,2010-2026,,,
+IMEMR / AIM,,v1,regional_v1.txt,,,,

@@ -1,0 +1,4 @@
+(Stroke[Mesh] OR stroke[tiab] OR "cerebrovascular accident*"[tiab] OR "brain attack"[tiab] OR "cerebral infarction"[tiab])
+AND ("Health Education"[Mesh] OR "Patient Education as Topic"[Mesh] OR "Health Knowledge, Attitudes, Practice"[Mesh] OR educat*[tiab] OR awareness[tiab] OR literacy[tiab] OR campaign*[tiab])
+AND ("Mobile Applications"[Mesh] OR "Text Messaging"[Mesh] OR "Artificial Intelligence"[Mesh] OR "Natural Language Processing"[Mesh] OR Telemedicine[Mesh] OR chatbot*[tiab] OR "conversational agent*"[tiab] OR "virtual assistant*"[tiab] OR "large language model*"[tiab] OR smartphone*[tiab] OR mHealth[tiab] OR "web-based"[tiab] OR "text messag*"[tiab])
+AND ("Time-to-Treatment"[Mesh] OR "prehospital delay"[tiab] OR "pre-hospital delay"[tiab] OR "onset-to-door"[tiab] OR "symptom recognition"[tiab] OR "emergency medical services"[tiab] OR "call* ambulance"[tiab] OR knowledge[tiab])
