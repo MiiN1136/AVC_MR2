@@ -1,6 +1,6 @@
 # Texte exact des équations testées
 
-## eq4 (retenue, 87 résultats)
+## eq4 (retenue — 87 résultats sans filtre ; 82 résultats avec limites 2010:2026 et en/fr ; 4/5 sentinelles)
 ```
 (
   "Stroke"[Mesh] OR stroke[tiab]

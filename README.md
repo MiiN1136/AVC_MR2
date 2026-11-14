@@ -1,6 +1,6 @@
 # Assistant IA d'orientation face à l'AVC : dépôt de travail
 
-Projet individuel de 8 semaines. Auteure : Yasmine Gorrab. Dépôt : https://github.com/MiiN1136/AVC_MR2. Domaine : accident vasculaire cérébral (AVC), contexte tunisien. Données publiques ou synthétiques uniquement.
+Projet individuel de 8 semaines. Auteure : Yasmine Gorrab. Dépôt : https://github.com/MiiN1136/AVC_MR2. Domaine : accident vasculaire cérébral (AVC), contexte tunisien. Données publiques.
 
 ## Structure
 
@@ -16,21 +16,10 @@ Projet individuel de 8 semaines. Auteure : Yasmine Gorrab. Dépôt : https://git
 
 ## État au 14/11/2026
 
-Protocole v1.1 ; équation PubMed eq4 retenue provisoirement ; à compléter : texte exact des équations (`01-revue/equations/equations_testees.md`), vérification des sentinelles, dates des recherches (`journal_recherches.csv`).
+Protocole v1.2 ; équation PubMed finale `eq4` figée (**82 résultats** avec limites `2010:2026[dp]` et `en/fr` ; **4/5 sentinelles** retrouvées) ; texte exact des équations (`01-revue/equations/equations_testees.md`), captures et journal des recherches (`01-revue/equations/journal_recherches.csv`) à jour. Prochaine étape : export PubMed vers Zotero, exécution des autres bases (Scopus, CENTRAL, IEEE Xplore, IMEMR/AIM) et début du criblage.
 
 ## Règles
 
 - Tout changement du protocole après le 14/11/2026 est inscrit dans `01-revue/CHANGELOG_protocole.md` (date, justification).
 - Chaque équation de recherche est versionnée et son nombre de résultats noté dans `01-revue/equations/journal_recherches.csv`.
 - Tout élément produit par l'IA est vérifié avant conservation et tracé dans le journal.
-
-## Mise en place Git
-
-```
-git init
-git add .
-git commit -m "Semaine 1 : cadrage et protocole v1.0"
-git remote add origin https://github.com/MiiN1136/AVC_MR2
-git push -u origin main
-```
-Puis donner l'accès en lecture à l'encadrant.

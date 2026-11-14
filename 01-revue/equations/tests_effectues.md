@@ -26,3 +26,15 @@ Les nombres ci-dessous ont été lus sur les captures d'écran. **Aucune limite 
 | stroke AND Tunisie, Maghreb, MENA… (r5) | 50 | Bruit : rapports mondiaux de morbidité. Termes régionaux inutiles dans l'équation |
 | stroke symptom recognition app (r6) | 10 | Surtout hors sujet (encéphalite, Alzheimer) ; outils de tri (FAST-ED) et applications de dépistage, pas d'éducation |
 | stroke awareness tunisia (r7) | 8 | Deux sources de contexte : Roushdy 2025 (17 pays africains) et l'étude CAP de Tunis (Aounallah Skhiri, Tunis Med 2005, avant 2010 : hors période) |
+
+## 3. Vérification des sentinelles
+
+Requête de contrôle exécutée le 14/11/2026 sur `eq4` avec les 5 PMID sentinelles (`AND (40771970[pmid] OR 38841682[pmid] OR 39482602[pmid] OR 35334251[pmid] OR 20434048[pmid])`) :
+- **Score : 4/5 sentinelles retrouvées** : Iskandar 2024 (`38841682`), Safwan 2024 (`39482602`), Cherfane 2025 (`40771970`) et Chan 2010 (`20434048`).
+- **Sentinelle manquante (1/5) :** Shufflebarger et al., 2022 (`35334251`), car le résumé utilise « CDC video » / « video » et non les expressions exactes `"online video"` ou `"educational video"` du bloc 2. Elle sera repérée par le contrôle des listes de références et les autres bases (Scopus, CENTRAL (recherches a effectuer dans le futur)).
+
+## 4. Enseignements et figement de l'équation PubMed
+
+- Peu de vraies études d'intervention : plusieurs avant-après à groupe unique, des enquêtes transversales et des protocoles. D'où l'amendement v1.1 du protocole (acceptation des avant-après à groupe unique, plan de repli vers une revue exploratoire si < 5 études éligibles).
+- Existence d'une revue proche (Tan 2022, PMID 34844126) : à positionner, et ses références à contrôler.
+- **Exécution finale avec limites du protocole :** `eq4` relancée le 14/11/2026 avec `2010:2026[dp]` et `english[la] OR french[la]` donne **82 résultats**, soit 5 références écartées par rapport aux 87 résultats sans filtre. L'équation `eq4` est figée comme équation PubMed finale (amendement v1.2).

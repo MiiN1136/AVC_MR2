@@ -1,6 +1,6 @@
 # Trois cadrages proposés par l'IA et justification du choix
 
-Outil : Claude (Sonnet 5.5), 14/11/2026. Consigne : « Propose trois cadrages possibles d'un assistant IA spécialisé sur l'AVC, pour la Tunisie, réalisable en 8 semaines avec des données publiques. »
+Outil : Claude (Sonnet 5.5), 08/11/2026. Consigne : « Propose trois cadrages possibles d'un assistant IA spécialisé sur l'AVC, pour la Tunisie, réalisable en 8 semaines avec des données publiques. »
 
 | | **A. Reconnaissance et orientation pré-hospitalière (RETENU)** | **B. Éducation du patient après AVC** | **C. Aide au triage pour cliniciens** |
 |---|---|---|---|
