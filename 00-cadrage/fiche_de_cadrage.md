@@ -1,6 +1,6 @@
 # Fiche de cadrage : assistant IA d'orientation face aux signes d'un AVC
 
-**Auteur :** [Prénom NOM] · **Date :** 08/11/2026 · **Domaine attribué :** accident vasculaire cérébral (AVC)
+**Auteur :** Yasmine Gorrab · **Date :** 14/11/2026 · **Domaine attribué :** accident vasculaire cérébral (AVC)
 
 ## 1. Périmètre
 
@@ -12,7 +12,7 @@ Adultes du grand public en Tunisie, et surtout les **proches et aidants de perso
 
 ## 3. Problème à résoudre
 
-Les traitements de reperfusion de l'AVC ischémique ne sont possibles que dans une fenêtre de temps limitée : tout retard d'appel réduit les chances de traitement. Or une enquête multicentrique menée aux urgences du centre et du sud de la Tunisie conclut à un besoin urgent d'améliorer les connaissances de la population sur l'AVC (Rekik et al., *Stroke knowledge among emergency centre visitors*, PMC7724164), et les auteurs notent que le délai entre le début des signes et l'admission reste long. Le projet cherche si un assistant conversationnel peut raccourcir l'étape « reconnaître et appeler ».
+Les traitements de reperfusion de l'AVC ischémique ne sont possibles que dans une fenêtre de temps limitée : tout retard d'appel réduit les chances de traitement. En Tunisie, les maladies cérébrovasculaires étaient en 2021 la deuxième cause de décès, avec 5 317 décès (8,7 %), derrière la Covid-19 (rapport santetunisie.rns.tn, INSP et ministère de la Santé, [référence exacte à compléter]). Une analyse de 17 pays africains indique que la Tunisie n'avait pas de campagne de sensibilisation à l'AVC en 2021 mais en avait une en 2024, liée à la World Stroke Organization, et qu'elle ne disposait pas de service de téléAVC en 2024 (Roushdy et al., *Revisiting Africa's Stroke Obstacles and Services*, Neurol Sci 2025). Les délais d'arrivée à l'hôpital en Tunisie restent à documenter. Le projet cherche si un outil numérique conversationnel peut raccourcir l'étape « reconnaître et appeler ».
 
 ## 4. Trois cas d'usage
 

@@ -6,11 +6,11 @@ Où chaque item est traité. « Non » = non applicable ou volontairement report
 |---|---|---|---|
 | 1a | Identifier comme protocole de revue systématique | Oui | Titre, protocole_PRISMA-P.md |
 | 1b | Mise à jour d'une revue | Non | Pas une mise à jour |
-| 2 | Enregistrement | Non | Non enregistré ; dépôt OSF prévu avant criblage |
-| 3a | Coordonnées des auteurs | Oui | En-tête (à compléter : affiliation, e-mail) |
+| 2 | Enregistrement | Non | Non enregistré : projet académique d'un semestre ; horodatage par l'historique Git |
+| 3a | Coordonnées des auteurs | Oui | En-tête : Yasmine Gorrab, yasminegorrab1@gmail.com (affiliation : [à inscrire]) |
 | 3b | Contributions, garant | Oui | Auteur unique, garant de la revue |
 | 4 | Amendements | Oui | CHANGELOG_protocole.md |
-| 5a | Sources de soutien | Oui | Aucun financement externe (à confirmer) |
+| 5a | Sources de soutien | Oui | Aucun financement : projet académique noté |
 | 5b | Financeur ou sponsor | Non | Aucun |
 | 5c | Rôle du financeur | Non | Sans objet |
 | 6 | Justification | Oui | Fiche de cadrage §3 |

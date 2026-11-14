@@ -1,0 +1,1 @@
+(Stroke[Mesh] OR stroke[tiab] OR "cerebrovascular accident*"[tiab] OR "brain attack"[tiab] OR "cerebral infarction"[tiab])
